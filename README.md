@@ -1,1 +1,1 @@
-A website that promotes awareness for the Endagered Species here in the Philippines
+A developing website that promotes awareness for the Endagered Species here in the Philippines
