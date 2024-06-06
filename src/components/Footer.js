@@ -4,7 +4,7 @@ import '../App.css';
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="footer-content">
+      <div className="footer-content text-center bg-transparent">
         <p>© 2024 We Protect. All rights reserved.</p>
             <p>Follow us on:</p>
         <div className="social-icons">
